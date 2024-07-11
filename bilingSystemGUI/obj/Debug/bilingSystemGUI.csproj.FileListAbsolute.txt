@@ -1,0 +1,59 @@
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\bin\Debug\bilingSystemGUI.exe.config
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\bin\Debug\bilingSystemGUI.exe
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\bin\Debug\bilingSystemGUI.pdb
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.AssemblyReference.cache
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmlogin.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.Properties.Resources.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.GenerateResource.cache
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.CoreCompileInputs.cache
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.exe
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.pdb
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmRegisterNewUser.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmCongragulations.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmSignUp.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmManager.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmAddNewProduct.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmViewAllProducts.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmEditProduct.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmDeleteProduct.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmjustEditProduct.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmAddNewStaffMember.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmShowAllStaffMembers.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmEditStaff.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmDeleteStaff.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmjustEditStaffInfo.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmSendMessage.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmCustumer.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmShowBuyedProducts.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmEditBuyedProduct.resources
+F:\BS CS Second Semester\OOP\Simple Projects\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.SuggestedBindingRedirects.cache
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\bin\Debug\bilingSystemGUI.exe.config
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\bin\Debug\bilingSystemGUI.exe
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\bin\Debug\bilingSystemGUI.pdb
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.AssemblyReference.cache
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.SuggestedBindingRedirects.cache
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmlogin.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmAddNewProduct.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmAddNewStaffMember.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmAlgorithms.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmCongragulations.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmCustumer.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmDeleteProduct.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmDeleteStaff.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmEditBuyedProduct.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmEditProduct.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmEditStaff.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmjustEditProduct.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmjustEditStaffInfo.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmManager.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmRegisterNewUser.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmSendMessage.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmShowAllStaffMembers.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmShowBuyedProducts.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmSignUp.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.frmViewAllProducts.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.Properties.Resources.resources
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.GenerateResource.cache
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.csproj.CoreCompileInputs.cache
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.exe
+F:\BS CS Third Semester\After Mid\DSA\Week 11\Lab Tasks\bilingSystemGUI\bilingSystemGUI\obj\Debug\bilingSystemGUI.pdb

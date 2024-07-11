@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bilingSystemGUI.BL.MUserBL">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAABQAAAAEAAACAAAAAgAAAAA=</HashCode>
+      <FileName>BL\MUserBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bilingSystemGUI.BL.productC_BL">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAQAAAAEAACAAgAAgAIAAAA=</HashCode>
+      <FileName>BL\productC_BL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bilingSystemGUI.BL.Staff_BL">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAQAAAAEAAAAAAAQAAAAEAA=</HashCode>
+      <FileName>BL\Staff_BL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bilingSystemGUI.DL.MUserDL">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAQAAAAAEAA=</HashCode>
+      <FileName>DL\MUserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bilingSystemGUI.DL.productC_DL">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAABAAAQAAABAAAACAAQAAAABAAAAAAAAAgCAAAA=</HashCode>
+      <FileName>DL\productC_DL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bilingSystemGUI.DL.Staff_DL">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAACAAAAACAAAAAAIAAAAACAAAA=</HashCode>
+      <FileName>DL\Staff_DL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

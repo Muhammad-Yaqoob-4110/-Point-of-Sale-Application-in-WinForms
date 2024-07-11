@@ -1,0 +1,8 @@
+Atif,123,Custumer
+Hamza,123,Custumer
+Ahmed,123,Custumer
+Yaqoob,123,Manager
+Ali,123,Manager
+Raza,123,Manager
+Ahmed Raza,123,Manager
+ali,ali,Custumer

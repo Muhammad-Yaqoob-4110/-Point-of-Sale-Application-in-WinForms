@@ -1,0 +1,139 @@
+﻿
+namespace bilingSystemGUI
+{
+    partial class frmSignUp
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblAddNewUser = new System.Windows.Forms.Label();
+            this.btnBack = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
+            this.txtPassword = new System.Windows.Forms.TextBox();
+            this.txtName = new System.Windows.Forms.TextBox();
+            this.lblPassword = new System.Windows.Forms.Label();
+            this.lblName = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblAddNewUser
+            // 
+            this.lblAddNewUser.AutoSize = true;
+            this.lblAddNewUser.Font = new System.Drawing.Font("Ravie", 30F, ((System.Drawing.FontStyle)(((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic) 
+                | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)), true);
+            this.lblAddNewUser.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.lblAddNewUser.Location = new System.Drawing.Point(15, 18);
+            this.lblAddNewUser.Name = "lblAddNewUser";
+            this.lblAddNewUser.Size = new System.Drawing.Size(705, 54);
+            this.lblAddNewUser.TabIndex = 26;
+            this.lblAddNewUser.Text = "Welcome to SignUP menu";
+            // 
+            // btnBack
+            // 
+            this.btnBack.Location = new System.Drawing.Point(271, 262);
+            this.btnBack.Name = "btnBack";
+            this.btnBack.Size = new System.Drawing.Size(75, 23);
+            this.btnBack.TabIndex = 25;
+            this.btnBack.Text = "Back";
+            this.btnBack.UseVisualStyleBackColor = true;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.Location = new System.Drawing.Point(374, 262);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(75, 23);
+            this.btnAdd.TabIndex = 24;
+            this.btnAdd.Text = "SignUP";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPassword.Location = new System.Drawing.Point(281, 182);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(168, 23);
+            this.txtPassword.TabIndex = 21;
+            // 
+            // txtName
+            // 
+            this.txtName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtName.Location = new System.Drawing.Point(281, 119);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(168, 23);
+            this.txtName.TabIndex = 20;
+            // 
+            // lblPassword
+            // 
+            this.lblPassword.AutoSize = true;
+            this.lblPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPassword.Location = new System.Drawing.Point(139, 174);
+            this.lblPassword.Name = "lblPassword";
+            this.lblPassword.Size = new System.Drawing.Size(134, 31);
+            this.lblPassword.TabIndex = 19;
+            this.lblPassword.Text = "Password";
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Location = new System.Drawing.Point(139, 109);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(86, 31);
+            this.lblName.TabIndex = 18;
+            this.lblName.Text = "Name";
+            // 
+            // frmSignUp
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(720, 307);
+            this.Controls.Add(this.lblAddNewUser);
+            this.Controls.Add(this.btnBack);
+            this.Controls.Add(this.btnAdd);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.txtName);
+            this.Controls.Add(this.lblPassword);
+            this.Controls.Add(this.lblName);
+            this.Name = "frmSignUp";
+            this.Text = "frmSignUp";
+            this.Load += new System.EventHandler(this.frmSignUp_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lblAddNewUser;
+        private System.Windows.Forms.Button btnBack;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.TextBox txtPassword;
+        private System.Windows.Forms.TextBox txtName;
+        private System.Windows.Forms.Label lblPassword;
+        private System.Windows.Forms.Label lblName;
+    }
+}
